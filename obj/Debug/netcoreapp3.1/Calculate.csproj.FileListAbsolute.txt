@@ -1,0 +1,14 @@
+C:\CSharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.csproj.AssemblyReference.cache
+C:\CSharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfoInputs.cache
+C:\CSharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.AssemblyInfo.cs
+C:\CSharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.csproj.CoreCompileInputs.cache
+C:\CSharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.exe
+C:\CSharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.deps.json
+C:\CSharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.json
+C:\CSharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.runtimeconfig.dev.json
+C:\CSharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.dll
+C:\CSharp\Calculate\bin\Debug\netcoreapp3.1\Calculate.pdb
+C:\CSharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.dll
+C:\CSharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.pdb
+C:\CSharp\Calculate\obj\Debug\netcoreapp3.1\Calculate.genruntimeconfig.cache
