@@ -46,7 +46,7 @@ namespace Calculate
                 Console.WriteLine("Oops, you entered a number that doesn't match the options :(");
                 Console.WriteLine("");
 
-                Console.WriteLine("Saindo da aplicação...");
+                Console.WriteLine("Exiting the application...");
                 Thread.Sleep(2000);
             }
         }
