@@ -37,7 +37,7 @@ namespace Calculate
                     case 1: Subtraction(); break;
                     case 2: Division(); break;
                     case 3: Multiplication(); break;
-                    case 4: Environment.Exit(0); break;
+                    case 4: ExitApp(); break;
                     default: Menu(); break;
                 }
             }
@@ -149,6 +149,15 @@ namespace Calculate
             Console.WriteLine("");
 
             Menu();
+        }
+
+        static void ExitApp()
+        {
+            Console.Clear();
+            Console.WriteLine("");
+            Console.WriteLine("Exiting the application...");
+            Thread.Sleep(1200);
+            Console.WriteLine("");
         }
 
     }
